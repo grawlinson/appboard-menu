@@ -7,7 +7,7 @@ The purpose of the menu is to allow the user to interact with the various periph
 The 4 peripherals are the:
 
 * Motor (0-100% speed control)
-* Lamp (0-100% brightness contro)l
+* Lamp (0-100% brightness control)
 * Speaker (0-25kHz tone frequency control)
 * RGB LED (0-32mA control of each LED)
 
